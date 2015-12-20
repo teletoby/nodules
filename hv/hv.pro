@@ -1,4 +1,4 @@
-update=Sun 29 Nov 2015 10:45:04 PM CET
+update=Son 20 Dez 2015 14:11:19 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../kicad-chenit
+LibDir=../../kicad-chenit;../../KiCad-Libraries;../../kicad-library/library
 [eeschema/libraries]
 LibName1=hv-rescue
 LibName2=power
@@ -59,4 +59,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/parallels/Desktop/KiCAD/kicad-chenit/chenit
+LibName31=/home/toby/KiCAD/kicad-chenit/chenit
